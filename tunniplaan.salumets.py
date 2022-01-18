@@ -49,7 +49,7 @@ Label(text=" ").grid(row=4, column=9)
 Label(text=" ").grid(row=5, column=0)
 Label(text="Merkulova ",font="Arial,50",width=40,height=3,bg="red",relief=RIDGE).grid(row=5, column=1,columnspan=2)
 Label(text="Programmerimise alused(eesti keeles) ",font="Arial,50",width=65,height=3,bg="lightblue",relief=RIDGE).grid(row=5, column=3,columnspan=7)
-Label(text="    Inglise keel  ",font="Arial,50",width=20,height=3,bg="lightgreen",relief=RIDGE).grid(row=5, column=9,columnspan=2)
+Label(text="Inglise keel",font="Arial,50",width=20,height=3,bg="lightgreen",relief=RIDGE).grid(row=5, column=9,columnspan=2)
 Label(text=" ").grid(row=5, column=10)
 
 
